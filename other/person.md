@@ -48,6 +48,8 @@
 * [程序员怎样快速成长？](https://mp.weixin.qq.com/s/TPViDjviDPuitjyaTf9I3g)
 * [阿里P9技术专家：程序员的技术实力是什么？](https://mp.weixin.qq.com/s/h-32WUi1far1WAchf-X_PQ)
 * [成为一名优秀架构师有标准吗？这12点或许能带给你一些启发](https://mp.weixin.qq.com/s/3obF9ltx_l28ZFU1z3jcCw)
+* [想要成为一个合格的架构师](https://mp.weixin.qq.com/s/jv_56Y91gkZ6z_reF8nchA)
+* [架构师不写代码，能行吗？](https://mp.weixin.qq.com/s/HpevoT6g5UXP4PaL0NUvGw)
 
 ---
 ### 团队
@@ -55,6 +57,10 @@
 * [最出色的员工往往最先离职，原因却不是因为钱](https://mp.weixin.qq.com/s/lYqPNQ2ngfiQlEBVNnwXhA)
 * [如果你是技术leader，团队成员不停向你抱怨时你会怎么做？](https://mp.weixin.qq.com/s/gKbMkreF50w0u5m4BuFjZA)
 * [张雪峰：创业团队极速发展过程中的分分合合](https://mp.weixin.qq.com/s/pRlzJQ4SEmkKPBX52EmZLA)
+* 沟通
+	* [带团队，强势真是好事么？](https://mp.weixin.qq.com/s/waTzuYQFOQmkC33AO3sywQ)
+	* [带团队，要不要言传身教？](https://mp.weixin.qq.com/s/Fio662OSxpCgaCxQKNEICA)
+	* [带团队，不要轻易放弃任何一个队友](https://mp.weixin.qq.com/s/k0j8LkV7XVZflYIXJm5zYg)
 
 ---
 ### HR技能

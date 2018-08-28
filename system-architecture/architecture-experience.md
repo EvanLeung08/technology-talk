@@ -29,6 +29,7 @@
 	* [苏宁数据中台基于Spring Cloud微服务架构实践](https://mp.weixin.qq.com/s/Xh-C79U35lsIsow_TL41dQ)
 * [Service Mesh：重塑微服务市场](https://mp.weixin.qq.com/s/XCUg4nVXJ9Q-mccYAyvc5Q)
 * [微服务2.0技术栈选型手册](https://mp.weixin.qq.com/s/OloZhn2pwfIrOQit_8jefA)
+* [微服务架构在千万级别日调用量、亿级别海量数据场景下的应用实践](https://mp.weixin.qq.com/s/fqOOkMMPwXTNG8PHJ_yUAw)
    
 ---
 ### 数据库
@@ -45,6 +46,7 @@
 	* [也谈分库分表在实际应用的实践](https://mp.weixin.qq.com/s/Wn_Ox3617uUkzIJJJoUrjw)
 	* [不停机分库分表迁移](https://mp.weixin.qq.com/s/oK94W71MAdNKXLxHl5dpPQ)
 	* [如何不停机完成单表拆分](split-table.md)
+* [InnoDB，5项最佳实践，知其所以然？](https://mp.weixin.qq.com/s/JEJcgD36dpKgbUi7xo6DzA)
 
 ---
 ### 缓存
@@ -60,6 +62,8 @@
 *	[缓存在大型分布式系统中的最佳应用](https://mp.weixin.qq.com/s/f-K0lPjBPcYFK0hbZJF99Q)
 *	数据迁移	
 	* [分布式缓存的迁移方案](https://mp.weixin.qq.com/s/8WtbAaNRdaJvRWcVG5K5rQ)
+* [数据库和缓存双写一致性方案解析](https://mp.weixin.qq.com/s/xHOZ5Nr4LQwpQoRwoTDxZA)
+* [缓存架构，一篇足够？](https://mp.weixin.qq.com/s/4J3oM1j5hcLq4w4TdSEMPg)
 
 ---
 ### MQ消息
@@ -77,6 +81,9 @@
 * 限流
 	* [如何设计API的限流](如何设计API的限流.md)
 	* [分布式限流](https://mp.weixin.qq.com/s/VXu82MgWwn993n8fSlaNtg)
+	* [探索常见的几种限流策略和实现](https://mp.weixin.qq.com/s/GEu7UVO7s_HX88T_DmBmnQ)
+	* [阿里巴巴宣布开源限流降级中间件——Sentinel](https://mp.weixin.qq.com/s/s-4JeeATl9NpkxUIeBHvSw?utm_source=tuicool&utm_medium=referral)
+	
 * 容灾
 * 隔离
 * 异地双活
@@ -105,6 +112,7 @@
 	* [基于 redis 的分布式锁到底安全吗?](https://mp.weixin.qq.com/s/ctbcwV4hzdB2MwGqQAA0_A)
 	* [基于 zookeeper实现的分布式锁](lock-zk.md)
 	* [基于数据库实现分布式锁（不推荐）](lock-db.md)
+* [我们该使用哪种分布式锁？](https://mp.weixin.qq.com/s/0wmVSfrkFq7BfpUvydr-ug)
 
 ---
 ### 性能优化

@@ -52,7 +52,7 @@
 *	[java的System.getProperty()方法使用](http://blog.csdn.net/itomge/article/details/9098207)
 * 	[java8函数编程（lambda表达式）](java8-stream.md)
 * 	[java的线程状态](java的线程状态.md)
-* 	[ThreadLocal原理机制](ThreadLocal原理机制.md)
+* 	[ThreadLocal原理机制](ThreadLocal.md)
 * 	[HashMap的扩容机制](HashMap的扩容机制.md)
 * 	[Exception](java-exception.md)
 * 	[各种坑](各种坑.md)
@@ -96,6 +96,7 @@
 	* 	[如何优化Java GC](https://mp.weixin.qq.com/s/ydkEkh_Uc1paftJLKIsm0w)
 	* 	[大型跨境电商 JVM 调优经历](https://mp.weixin.qq.com/s/bOarreWhQJmS6VTZfFcsZw)
 	*   [Jvm知识汇总](https://mp.weixin.qq.com/s/4c9K5eYMFGVV2WyKaYXVBA)
+	*   [海量连接服务端jvm参数调优杂记](https://mp.weixin.qq.com/s/jt_BCAo8krxPAhLhhLdIrg)
 * ###### JVM 调优工具
 	* 	[XXFox](http://xxfox.perfma.com/)
 
@@ -114,3 +115,4 @@
 * 	[HashMap扩容、散列碰撞](https://yq.aliyun.com/articles/225660?spm=5176.100238.spm-cont-list.1.LYRwKV)
 * 	[一台Java服务器跑多少个线程](https://mp.weixin.qq.com/s/lQkPltX3yS3bGb9EbxHGAg)
 * 	[【死磕Java并发】—- 深入分析CAS](https://mp.weixin.qq.com/s/--AMdl0GZQkY1MWIWQ-HHA)
+* 	[深入探索 Java 热部署](https://www.ibm.com/developerworks/cn/java/j-lo-hotdeploy/index.html)

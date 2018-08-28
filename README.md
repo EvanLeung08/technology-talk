@@ -2,8 +2,6 @@
 
 ---
 
-原文地址：https://github.com/aalansehaiyang/technology-talk
-
 ### 前言
 
 有人认为编程是一门技术活，要有一定的天赋，非天资聪慧者不能及也。其实不然，笔者虽是计算机专业出身，但工作年限并不长，对于技术这碗饭有一些心得体会，大多数人成为某领域顶级专家可能会有些难度，但应对日常工作，成长为资深研发工程师、技术专家、甚至成为小团队的Team Leader，其实并不难。
@@ -59,7 +57,8 @@
 * [commons-io](open-source-framework/commons-io.md)
 * [Quartz](open-source-framework/Quartz.md)
 * [HttpClient](open-source-framework/HttpClient.md)
-* [Javassist](http://blog.csdn.net/itomge/article/details/7671294)
+* [okhttp](open-source-framework/okhttp.md)
+* [Javassist](open-source-framework/Javassist.md)
 * [lombok](open-source-framework/lombok.md)
 
 
@@ -115,6 +114,7 @@
 	* [Elastic-Job](https://github.com/elasticjob/elastic-job)
 	* [详解当当网的分布式作业框架elastic-job](http://www.infoq.com/cn/articles/dangdang-distributed-work-framework-elastic-job)
 	* [TBSchedule](http://blog.csdn.net/taosir_zhang/article/details/50728362)
+	* [xxl-job](https://github.com/xuxueli/xxl-job)
 
 *   大数据
 	* [Hbase](middle-software/Hbase.md)
@@ -171,6 +171,7 @@
 	* [大数据面试题](other/bigdata-interview.md)
 *	[回车与换行的区别](other/回车与换行的区别.md)
 *   [github上fork项目后，如何同步更新后面提交](http://blog.csdn.net/qq1332479771/article/details/56087333)
+* 	[其它](other/other.md)
 
 ### 写在后面
 
